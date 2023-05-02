@@ -3,6 +3,7 @@ from random import uniform
 from random import choice
 
 # Trainer settings #
+print("Welcome to the Arithmetic Trainer!")
 print("Range of numbers for calculations should start at: ")
 start = int(input())
 print("Range of numbers for calculations should stop at: ")
